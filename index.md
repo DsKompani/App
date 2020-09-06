@@ -1,12 +1,12 @@
 ## Welcome to DsKompani LTD
 
-### Fitz is a fun game
+### LoKalMart connects customers with local stores
 
 
 
-Fit blocks correctly as many times as you can! <br />
-Just click left or right button to fit the block  <br />
-Very easy to play but very hard to reach high scores. <br />
+Find nearby stores in 1 click! <br />
+Use online or offline  <br />
+Fastest deliveriess <br />
 
 
 
